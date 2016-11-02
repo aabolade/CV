@@ -1,15 +1,16 @@
 ## Leke Abolade
 
-Recent Oxford Engineering graduate eagerly looking for opportunities to grow and learn as a software developer. Currently enrolled into Makers Academy, Europe's leading web developer boot camp. Self-learning swift for iOS developer projects.
+I am an engineering graduate that loves problem solving and want to become a software developer to create technology that positively impacts society. After completing an internship with my university’s psychology department, creating an iOS app that monitors cognitive decline, I discovered how I could help others using technology. 
+
+Currently enrolled on Makers Academy, Europe’s leading web developer bootcamp, I want to continue learning and equip myself with the correct set of tools to help me become an accomplished programmer.  
+
+[Skills](#skills) | [Education](#education) | [Experience](experience) | [Interests](#interests)
 
 ## Skills
 
 #### Research and Analysis
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Independent academic project for Ricardo UK Ltd: investigated the replacement of a dual mass flywheel with a clutch in micro-slip.
-- Used matlab and simulink to develop mechanical driveline model for analysis of torsional oscillation.
+- [Independent academic project](http://www.slideshare.net/LekeAbolade/4yp-exhibition-posterfinal) for Ricardo UK Ltd: investigated the replacement of a dual mass flywheel with a clutch in micro-slip. Used matlab and simulink to develop mechanical driveline model for analysis of torsional oscillation. 
 
 - Osney Thermofluids Laboratory, asssisted professor in conducting a series of tests and analysis on a Rolls Royce engine seal. 
 - Conducted each test, recorded observations, then processed and analysed large set of results using Microsoft Excel.
@@ -18,8 +19,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Carried out geological surveying and data collection for the London Underground Earth Structures team.
 - Analysed results to determine stability of rail asset, then used findings to compile and present report on the overall condition of rail asset.
-
-#### Programming 
 
 - Used 'C' programming language to develop algorithm for a mobile robot to follow physical course using its camera. 
 
@@ -80,15 +79,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Tutored private lessons and classes in maths and science for students between ages 11 and 18. Students' needs covered 11plus entrance exams, GCSEs, International Baccalaauria and A Levels.
 - Used good preparation, organisation and time management to deliver  a successful tuition service 
 
-
-
-
 ## Interests 
 
 Amateur Boxing, Cycling, Salsa, drums, open mic, travelling
-
-Education
-
-- Organised english classes and workshops for Japanese students from ages 15 to 21years and acted as a mentor for orphaned students. 
-- Compiled a list of scholarships available for students in Africa wishing to study in the UK.
-- Developed Japanese cultural understanding and successfully adapted to operate in the work environment.  

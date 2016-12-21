@@ -2,9 +2,15 @@
 
 I am an engineering graduate that loves problem solving and want to become a software developer to create technology that positively impacts society. After completing an internship with my university’s psychology department, creating an iOS app that monitors cognitive decline, I discovered how I could help others using technology. 
 
-Currently enrolled on Makers Academy, Europe’s leading web developer boot camp, I want to continue learning and equip myself with the correct set of tools to help me become an accomplished programmer.  
+Currently enrolled on Makers Academy, Europe’s leading web developer boot camp, aiming to develop self-learning capabilities to dive into any new technology stack.
 
-[Skills](#skills) | [Education](#education) | [Experience](experience) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](experience) | [Interests](#interests)
+
+## Projects
+
+Project | Description | Technologies | Testing
+--- | --- | --- | ---
+[makersBnB](https://github.com/aabolade/makersbnb) | AirBnB web app clone built in 5 days using TDD  | Ruby, Sinatra, PostgreSQL | RSpec, Capybara
 
 ## Skills
 
@@ -12,11 +18,11 @@ Currently enrolled on Makers Academy, Europe’s leading web developer boot camp
 
 - [Independent academic project](http://www.slideshare.net/LekeAbolade/4yp-exhibition-posterfinal) for Ricardo UK Ltd: investigated the replacement of a dual mass flywheel with a clutch in micro-slip. Used Matlab and Simulink to develop mechanical driveline model for analysis of torsional oscillation. 
 
-- Worked in university Thermo fluids Laboratory, assisting professor in conducting a series of tests and analysis on a Rolls Royce engine seal. Conducted each test, recorded observations, then processed and analysed large set of results using Microsoft Excel. Compiled short presentation and communicated the technical aspects of my findings to the client managers. 
+- Worked in Osney Thermo fluids Laboratory, assisting professor in conducting a series of tests and analysis on a Rolls Royce engine seal. Conducted each test, recorded observations, then processed and analysed large set of results using Microsoft Excel. Compiled short presentation and communicated the technical aspects of my findings to the client managers. 
 
-- Carried out geological surveying and data collection for the London Underground Earth Structures team. Analysed results to determine stability of rail asset, then used findings to compile and present report on the overall condition of rail asset.
+- Carried out geological surveying and data collection for the London Underground Earth Structures team. Analysed results and then used findings to complete and present report on the overall condition of rail asset.
 
-- Used 'C' programming language to develop algorithm for a mobile robot to follow physical course using its camera. 
+- Developed algorithm for a mobile robot to follow taped course using its camera. 
 
 #### Teamwork
 
@@ -32,35 +38,19 @@ Currently enrolled on Makers Academy, Europe’s leading web developer boot camp
 
 #### Makers Academy (October 2016 to present)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Programming Fundamentals: OOD, SOLID, MVC, TDD
+- Agile and Test Driven Development using RSpec and Jasmine
+- HTTP Protocols, HTML and CSS
+- Ruby, Sinatra, Ruby on Rails
+- Javascript, jQuery, Ajax, AngularJS and Node
+- PostgresSQL and Firebase
+- Heroku and version control (Git)
 
 #### St Catherine's College, Oxford University (October 2011 to June 2015)
 
 - MEng Engineering Science (Hons), Power Electronics, Machine Vision, Automotive Engineering, Hydraulics, Renewable Energy.
 - Awarded National Grid In2Energy Scholarship (2012).
 - Oxford University Amateur Boxing Club, OUABC (2013 - 2015).
-
-
-#### Queen Elizabeth's School, Barnet
-
-##### A Levels
-
-- Further Mathematics (A*)
-- Mathematics (A*)
-- Physics (A)
-- Geography (A)
-
-##### GCSEs 
-- 6A*s and 6As
-
-##### Other Awards
-- Nominated for the 2011 London Schools and black child award in recognition of outstanding achievement.
-- Nuffield Science Bursary (2010).
 
 ## Experience
 

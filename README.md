@@ -2,7 +2,7 @@
 
 I am an engineering graduate that loves problem solving and using technology to positively impact society. In just 12 weeks, I have learned and practiced fundamental principles of agile software craftsmanship. As I begin my journey as a software developer, I want to continue my high trajectory of learning and regularly contribute to the software community.
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](experience) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## Projects
 
@@ -35,10 +35,6 @@ Project | Description | Technologies | Testing
 - Abide by Agile and Test Driven Development (TDD) so designs are simple and code is only added to meet specific requirements.
 - Understand and practice good software design patterns such as Model-View-Controller(MVC).
 
-#### Research and Analysis
-
-- [Independent academic project](http://www.slideshare.net/LekeAbolade/4yp-exhibition-posterfinal) for Ricardo UK Ltd: investigated the replacement of a dual mass flywheel with a clutch in micro-slip. Used Matlab and Simulink to develop mechanical driveline model for analysis of torsional oscillation.
-
 #### Dedication
 
 - Completed 200-mile cycle from London to Paris for Charity Action Against Hunger. Initial fundraising target of £1,000 but this was exceeded to £3961.84 in 3 months (2014).
@@ -55,9 +51,10 @@ Project | Description | Technologies | Testing
 - Heroku and version control (Git)
 - Regular debugging exercises
 
-#### St Catherine's College, Oxford University (October 2011 to June 2015)
+#### St Catherine's College, University of Oxford (October 2011 to June 2015)
 
 - MEng Engineering Science (Hons), Power Electronics, Machine Vision, Automotive Engineering, Hydraulics, Renewable Energy.
+- [Independent academic project](http://www.slideshare.net/LekeAbolade/4yp-exhibition-posterfinal) for Ricardo UK Ltd: investigated the replacement of a dual mass flywheel with a clutch in micro-slip. Used Matlab and Simulink to develop mechanical driveline model for analysis of torsional oscillation.
 - Awarded National Grid In2Energy Scholarship (2012).
 - Oxford University Amateur Boxing Club, OUABC (2013 - 2015).
 
@@ -75,4 +72,4 @@ Project | Description | Technologies | Testing
 
 ## Interests
 
-Amateur Boxing, Cycling, Salsa, drums, open mic, travelling.
+Boxing, Cycling, Salsa, Drums, Open mic, Travelling.

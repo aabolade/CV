@@ -12,7 +12,6 @@ Project | Description | Technologies | Testing
 [NewsSummary](https://github.com/aabolade/NewsSummaryApp) |  Single page app that displays the latest headlines from the Guardian | JavaScript | Jasmine|
 [Insta-ounze](https://github.com/aabolade/instagram-challenge) | Instagram web app clone built using TDD  | Ruby, Rails, PostgreSQL | RSpec, Capybara
 [makersBnB](https://github.com/aabolade/makersbnb) | AirBnB web app clone built in 5 days using TDD  | Ruby, Sinatra, PostgreSQL | RSpec, Capybara
-
 [Chitter](https://github.com/aabolade/chitter-challenge) | A Twitter clone web app built in a single weekend | Ruby, Sinatra, PostgreSQL | Rspec, Capybara
 
 
